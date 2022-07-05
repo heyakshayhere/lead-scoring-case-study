@@ -6,7 +6,7 @@ Now, although X Education gets a lot of leads, its lead conversion rate is very 
 
 <br>
 <p align="center">
-  <img src="https://miro.medium.com/max/854/0*Gem-pM-E7q00QI7O.gif" />
+  <img src="https://github.com/heyakshayhere/lead-scoring-case-study/blob/main/XNote_201901081613670.jpg" />
 </p><br>
 
 As you can see, there are a lot of leads generated in the initial stage (top) but only a few of them come out as paying customers from the bottom. In the middle stage, you need to nurture the potential leads well (i.e. educating the leads about the product, constantly communicating etc. ) in order to get a higher lead conversion.
